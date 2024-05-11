@@ -1,4 +1,11 @@
 :root {
+	--main-font-size: 62.5%;
+	--color-white: hsl(0, 0%, 100%);
+	--color-light-gray: hsl(212, 45%, 89%);
+	--color-grayish-blue: hsl(220, 15%, 55%);
+	--color-dark-blue: hsl(218, 44%, 22%);
+	--mobile: 375px;
+	--desktop: 1440px;
 }
 
 * {
@@ -10,5 +17,13 @@
 html,
 body {
 	max-width: 100vw;
+	font-size: var(--main-font-size);
 	overflow-x: hidden;
+	background-color: var(--color-light-gray);
+}
+
+.container {
+	margin: 0 auto;
+	max-width: 1440px;
+	padding: 0 1rem;
 }

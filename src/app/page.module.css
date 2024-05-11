@@ -1,0 +1,33 @@
+.wrapper {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	font-size: 1.5rem;
+}
+
+.qr-block {
+	background-color: var(--color-white);
+	border-radius: 17px;
+	width: 32rem;
+	height: 49.8rem;
+	padding: 1.7rem;
+}
+
+.image {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	object-fit: cover;
+	border-radius: 10px;
+}
+
+.title {
+	margin: 2.5rem 1rem 0 1rem;
+	text-align: center;
+}
+.desc {
+	text-align: center;
+	margin: 2rem 1.8rem 0 1.8rem;
+	color: var(--color-grayish-blue);
+}
