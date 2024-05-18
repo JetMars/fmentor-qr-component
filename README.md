@@ -4,8 +4,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![desktop](./screenshot-desktop.png)
-![mobile](./screenshot-mobile.png)
+![desktop](./screenshot-desktop-min-2.png)
+![mobile](./screenshot-mobile-2.png)
 
 ### Links
 
