@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Mobile-first workflow
+- Mobile-first workflow§`
 - [React](https://reactjs.org/) - JS library
 - [Next.js](https://nextjs.org/) - React framework
 
